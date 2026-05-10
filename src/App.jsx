@@ -15,7 +15,7 @@ import EventList from "./components/events/EventList";
 import EventForm from "./components/events/EventForm";
 import EventRegister from "./components/events/EventRegister";
 
-
+import ChatBot from "./components/ChatBot";
 
 function App() {
   return (
@@ -54,6 +54,7 @@ function App() {
           </ProtectedRoute>
         }/>
       </Routes>
+      <ChatBot />
     </BrowserRouter>
   );
 }
