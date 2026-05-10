@@ -159,7 +159,6 @@ Features:
 
 # 📸 Screenshots
 
-Add screenshots inside:
 
 ```bash
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8529f485-ad72-4131-b129-f80e4c60b439" />
