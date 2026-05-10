@@ -25,7 +25,7 @@ This project allows users to:
 - SQLite
 
 ## AI / Automation
-- Make.com Webhooks
+- N8N Webhooks
 - AI Chatbot Integration
 
 ---
@@ -145,7 +145,7 @@ http://localhost:5173
 # 🤖 Chatbot Integration
 
 The chatbot is integrated using:
-- Make.com Webhooks
+- N8N Webhooks
 - AI Automation Workflow
 
 Features:
@@ -162,7 +162,12 @@ Features:
 Add screenshots inside:
 
 ```bash
-screenshots/
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8529f485-ad72-4131-b129-f80e4c60b439" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/00be0aa4-862b-4123-b7a6-f13f542d7110" />
+<img width="950" height="5395" alt="localhost_5173_ (1)" src="https://github.com/user-attachments/assets/0f78e4fc-7e02-435b-894f-2642e89ad2e3" />
+<img width="1056" height="1550" alt="localhost_5173_events_2_register" src="https://github.com/user-attachments/assets/e1191c15-71d9-451b-a7ab-4bbf1fa58435" />
+<img width="1572" height="711" alt="image" src="https://github.com/user-attachments/assets/65e804c7-d06c-4189-b797-e37ff603ba5f" />
+
 ```
 
 Example screenshots:
@@ -180,7 +185,6 @@ Example screenshots:
 - Event Management Panel
 - Payment Gateway
 - Email Notifications
-- JWT Authentication
 - AI Event Recommendations
 
 ---
@@ -189,7 +193,7 @@ Example screenshots:
 
 Atharv Ugale
 
-GitHub: https://github.com/goldenknights95
+GitHub: https://github.com/Atharvugale95
 
 LinkedIn: https://linkedin.com/in/atharv-ugale-22a22b255
 
